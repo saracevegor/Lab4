@@ -1,4 +1,2 @@
 New changes here
-
-
->>>>>>> master2
+conflict 1
